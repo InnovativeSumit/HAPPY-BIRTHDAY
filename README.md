@@ -1,4 +1,4 @@
-# 🎂 Birthday Surprise V2 – A Modern & Emotional Birthday Gift
+# 🎂 Birthday Surprise  – A Modern & Emotional Birthday Gift
 
 Celebrate someone’s birthday in a unique and heart-touching way with this new version of the "Birthday Surprise" website. This version includes beautiful animations, confetti, a photo slideshow, and a special countdown – all crafted to create an unforgettable moment. 💖
 
@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/Anuj579/birthday-site-v2.git
 
 # Navigate into the folder
-cd birthday-site-v2
+cd birthday-site
 
 # Install dependencies
 npm install
@@ -33,6 +33,7 @@ npm install
 # Start the development server
 npm run dev
 ```
+
 
 
 
